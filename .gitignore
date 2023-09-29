@@ -1,0 +1,4 @@
+mypasswordsfile
+*.c
+*.log
+**/fq.gz
